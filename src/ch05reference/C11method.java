@@ -5,6 +5,7 @@ public class C11method {
         int[] a = method1();
 
         System.out.println("change git");
+        System.out.println("ihrhbakrfpndopljhygc".length());
     }
     public static int[] method1(){
         int[] c = {9,7,5};
