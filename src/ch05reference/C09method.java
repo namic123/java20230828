@@ -1,0 +1,12 @@
+package ch05reference;
+
+public class C09method {
+    public static void main(String[] args) {
+        int a = 5;
+
+        method1(a);
+    }
+    public static void method1(int p){
+        System.out.println(p);
+    }
+}
