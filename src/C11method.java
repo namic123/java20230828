@@ -1,6 +1,8 @@
 public class C11method {
     public static void main(String[] args) {
         int[] a = method1();
+
+        System.out.println("change git");
     }
     public static int[] method1(){
         int[] c = {9,7,5};
