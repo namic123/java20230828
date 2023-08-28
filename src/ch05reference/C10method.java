@@ -1,3 +1,5 @@
+package ch05reference;
+
 public class C10method {
     public static void main(String[] args) {
         int[] a = {3,4,5};
